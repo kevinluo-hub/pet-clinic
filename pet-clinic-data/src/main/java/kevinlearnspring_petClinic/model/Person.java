@@ -1,4 +1,4 @@
-package kevinlearnspring_petClinic;
+package kevinlearnspring_petClinic.model;
 
 public class Person {
     private String firstName;
